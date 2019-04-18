@@ -1,0 +1,17 @@
+{
+  "name": "br1-build-node",
+  "version": "1.0.0",
+  "description": "A simple tool to boilerplate my Node Js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "br1code",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
